@@ -13,7 +13,7 @@
     --primary-color: rgba(var(--primary), 0.9);
     --dark-primary-color: rgba(var(--primary), 1);
     --light-primary-color: rgba(var(--primary), 0.6);
-*/
+  
     --neon-red-color: rgba(var(--red), 1);
     --neon-blue-color: rgba(var(--blue), 1);
     --neon-yellow-color: rgba(var(--yellow), 1);
@@ -25,6 +25,7 @@
     --light-neon-green-color: rgba(var(--green), 1);
 
     --dark-neon-green-color: rgb(var(--dark-green));
+  */
 
     /* Discord variables */
     --brand-experiment: var(--neon-red-color);
